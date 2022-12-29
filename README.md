@@ -1,5 +1,5 @@
 # Test automation project (API) for service WeGoTrip
-![Bookmate_logo.png](images/screens/background.png)
+![background2.jpg](images/screens/background2.jpg)
 
 > WeGoTrip is the best travel app with audio guide to pass
 > self guided walking tours and to buy tickets to museums of the world
