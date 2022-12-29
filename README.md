@@ -119,7 +119,7 @@ Report*</strong></code>, clicking on which will open a page with a generated htm
 ### :pushpin: Test cases
 
 <p align="center">
-  <img src="images/screens/Allure_TO3.png" alt="test cases" width="900">
+  <img src="images/screens/Allure_TO2.png" alt="test cases" width="900">
 </p>
 
 ## <img width="4%" title="Jira" src="images/logo/Jira.svg"> Integration with [Jira](https://jira.autotests.cloud/browse/AUTO-638)
@@ -135,11 +135,3 @@ Report*</strong></code>, clicking on which will open a page with a generated htm
 <p align="center">
 <img title="Telegram Notifications" src="images/screens/Telegram.png">
 </p>
-
-## <img width="4%" title="Selenoid" src="images/logo/Selenoid.svg"> Example of running test in Selenoid
-
-> Video is attached to each test in the report.
-<p align="center">
-  <img title="Selenoid Video" src="images/gif/test.gif">
-</p>
-
