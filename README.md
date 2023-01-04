@@ -52,7 +52,7 @@
 
 ## :bookmark_tabs: Implemented checks
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UI
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; API
 
 > - [x] *Checking cities*
 >- [x] *Checking product_id*
