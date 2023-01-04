@@ -39,7 +39,7 @@
 <code><img width="5%" title="Telegram" src="images/logo/Telegram.svg"></code>
 </p>
 
-> *In this project, autotests are written in <code><strong>*Java*</strong></code> using the <code><strong>*Selenide*</strong></code> framework for UI tests.*
+> *In this project, autotests are written in <code><strong>*Java*</strong></code> using the <code><strong>*REST Assured*</strong></code>, Java library for testing the RESTful API.*
 >
 >*<code><strong>*Gradle*</strong></code> is used to build the project.*
 >
