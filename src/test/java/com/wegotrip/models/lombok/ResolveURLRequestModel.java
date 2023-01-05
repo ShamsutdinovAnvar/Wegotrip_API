@@ -9,5 +9,4 @@ public class ResolveURLRequestModel {
 
     private String slug;
     private Boolean checkout;
-
 }

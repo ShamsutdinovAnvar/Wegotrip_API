@@ -7,11 +7,6 @@ import lombok.Data;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class DaysAvailableRequestModel {
 
-
     private String start;
     private String end;
-
-
-
-
 }

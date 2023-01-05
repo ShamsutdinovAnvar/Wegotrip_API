@@ -12,19 +12,6 @@ import static io.restassured.http.ContentType.JSON;
 import static org.hamcrest.Matchers.notNullValue;
 
 public class Specs {
-    public static RequestSpecification checkProductsSpec = with()
-            .filter(withCustomTemplates())
-            .baseUri("https://wegotrip.com")
-            .basePath("/api/products/")
-            .log().all()
-            .contentType(JSON);
-
-    public static ResponseSpecification checkProductsResponseSpec = new ResponseSpecBuilder()
-            .log(STATUS)
-            .log(BODY)
-            .expectStatusCode(200)
-            .build();
-
     public static RequestSpecification citiesRequestSpec = with()
             .filter(withCustomTemplates())
             .baseUri("https://wegotrip.com")

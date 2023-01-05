@@ -9,7 +9,6 @@ import java.util.List;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class DaysAvailableResponseModel {
 
-
     public List<AvailableDay> data;
 
     @lombok.Data
@@ -26,4 +25,3 @@ public class DaysAvailableResponseModel {
         }
     }
 }
-

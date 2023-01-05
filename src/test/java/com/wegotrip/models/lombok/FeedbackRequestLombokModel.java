@@ -10,5 +10,4 @@ public class FeedbackRequestLombokModel {
     private String questID;
     private Integer rate;
     private String text;
-
 }

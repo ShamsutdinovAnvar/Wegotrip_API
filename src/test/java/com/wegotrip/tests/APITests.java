@@ -80,7 +80,7 @@ public class APITests {
                 .when()
                 .post()
                 .then()
-                .spec(ProductIdResponseSpec);
+                .spec(feedbackResponseSpec);
     }
 
     @Test
@@ -135,6 +135,4 @@ public class APITests {
                 .then()
                 .spec(deleteUserResponseSpec);
     }
-
-
 }

@@ -9,5 +9,4 @@ public class LoginRequestLombokModel {
 
     private String username;
     private String password;
-
 }

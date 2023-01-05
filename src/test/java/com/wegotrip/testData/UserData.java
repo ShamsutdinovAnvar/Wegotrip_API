@@ -7,6 +7,6 @@ public class UserData {
             username = "zapalpetrov@yandex.ru",
             password = "admin000",
             questID = "ZD2G5L",
-            startDay = "2023-01-05",
-            endDay = "2023-01-15";
+            startDay = "2023-01-15",
+            endDay = "2023-01-25";
 }
